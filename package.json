@@ -17,6 +17,7 @@
   "bugs": {
     "url": "https://github.com/VasylBarna/modul10-shablony-lesson/issues"
   },
+  
   "homepage": "https://github.com/VasylBarna/modul10-shablony-lesson#readme",
   "devDependencies": {
     "@babel/core": "^7.14.0",
